@@ -70,14 +70,14 @@ jobri-collection/
 │ │  ├── orderSummary.js  
 │ │  └── paymentSummary.js  
 │ ├── checkout.js
-│ ├── index.js
-│ └── productsPage.js  
+│ ├── productsPage.js
+│ └── productDetail.js  
 ├── styles/  
 │ ├── jobri.css
 │ ├── checkout.css  
 │ └── products.css
 ├── images/  
-├── jobri.html  
+├── index.html  
 ├── checkout.html
 ├── products.html  
 └── README.md
