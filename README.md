@@ -12,7 +12,7 @@ The long-term objective remains unchanged: full ownership of the platform—no o
 
 The current production version (plain JavaScript) is deployed on Vercel:
 
-**Live URL:** [https://jobri-shop.vercel.app/](https://jobri-shop.vercel.app/)
+**Live URL:** [https://jobri-collection.vercel.app/](https://jobri-collection.vercel.app/)
 
 
 ## Evolution of the Project
